@@ -1,0 +1,24 @@
+Test 
+black box script testing
+cunit unit testing
+jgaforsberg gufo0047 gusfor-1 gufr22 2022-12-14
+
+Del 1 "black box" finns i ./black-box-test där
+make all
+kompilerar programmet till aktuell katalog
+och 
+make clean
+rensar det
+Testskriptet körs med
+./test_3.sh
+och använder sig av bifogade .txt-filer
+
+Del 2 "unit test" finns i ./unit-test där 
+make all
+kompilerar programmet till aktuell katalog
+och
+make clean
+rensar det
+Programmet körs med
+./test_calc_resistance
+

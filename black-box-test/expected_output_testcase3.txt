@@ -1,0 +1,10 @@
+Ange spänningskälla i V (>0): 
+Ange koppling[S|P]: 
+Ange antal komponenter: 
+Komponent 1 i ohm: Komponent 2 i ohm: Ersättningsresistans: 150.0
+Effekt: 3.8
+Ersättningsresistancer i E12-serien kopplade i serie: 
+150.0000
+0.0000
+0.0000
+Antal komponenter som behövdes = 1
